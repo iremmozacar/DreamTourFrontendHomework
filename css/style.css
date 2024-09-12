@@ -440,7 +440,7 @@ button {
 
 .read_more {
      font-size: 17px;
-     background-color: #121212;
+     background-color: #6096B4;
      color: #fff;
      padding: 8px 0px;
      width: 100%;
@@ -453,8 +453,8 @@ button {
 }
 
 .read_more:hover {
-     background: #6096B4;
-     color: #fff;
+     background: #EEF5FF;
+     color: #6096B4;
      transition: ease-in all 0.5s;
 }
 
@@ -695,7 +695,7 @@ button {
      width: 100%;
      height: 58px;
      background: #fff;
-     color: #000000;
+     color: #BBBFCA;
      font-size: 18px;
      font-weight: normal;
      box-shadow: 2px 0px 6px rgba(255, 9, 9, 0.20);
@@ -717,7 +717,7 @@ button {
 .main_form .send_btn {
      font-size: 22px;
      transition: ease-in all 0.5s;
-     background-color: #000000;
+     background-color: #6096B4;
      text-transform: uppercase;
      color: #fff;
      padding: 10px 0px;
@@ -730,13 +730,13 @@ button {
 }
 
 .main_form .send_btn:hover {
-     background-color: #6096B4;
+     background-color: #EEF5FF;
      transition: ease-in all 0.5s;
-     color: #fff;
+     color: #6096B4;
 }
 
 #request *::placeholder {
-     color: #000000;
+     color: #BBBFCA;
      opacity: 1;
 }
 
